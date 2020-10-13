@@ -1,0 +1,16 @@
+PODS:
+  - TZImagePickerController (3.4.3)
+
+DEPENDENCIES:
+  - TZImagePickerController
+
+SPEC REPOS:
+  trunk:
+    - TZImagePickerController
+
+SPEC CHECKSUMS:
+  TZImagePickerController: 4f6e91cf00d67827ec23bd3c2f849cbd054b4979
+
+PODFILE CHECKSUM: 6cfb66519b5ce4ab46a45b690d70d63de3fe064f
+
+COCOAPODS: 1.9.1
